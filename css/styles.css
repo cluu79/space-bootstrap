@@ -1,0 +1,15 @@
+#footer .container-fluid{
+  background-color: rgba(128, 128, 128, 0.233);
+  padding: 1% 2%;
+  text-align: center;
+  margin-top: 10px;
+  color: #fff;
+
+}
+
+  body{
+    background: url(/images/moon.jpg) NO-repeat center/cover;
+    
+    
+    
+  }
